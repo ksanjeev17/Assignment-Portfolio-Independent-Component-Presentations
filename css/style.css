@@ -33,11 +33,6 @@ a{
     left: 200px;
     padding-left: 4%;
   }
-.skip:hover{
-
-}
-
-
 @media only screen and (max-width: 1000px) {
     .navnav {
         flex-direction: column;
@@ -51,6 +46,7 @@ a{
 }
 .navnav{
     display: flex;
+    color: black;
 }
 .navnav a:hover{
     color: black;
